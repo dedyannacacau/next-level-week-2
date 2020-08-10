@@ -18,7 +18,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - ReactJS
 - React Native
 
-## 📥 Executar o projeto
+## 📥 Executando o projeto
 
 - Clonar Repositório: `https://github.com/dedyannacacau/next-level-week-2.git`
 - Instalar dependências: `yarn`
