@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "yarn-audit-fix": "^3.2.15"
+  }
+}
